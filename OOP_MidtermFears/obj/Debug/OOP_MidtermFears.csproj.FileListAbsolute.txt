@@ -1,0 +1,6 @@
+C:\Users\osman\RiderProjects\OOP_MidtermFears\OOP_MidtermFears\bin\Debug\OOP_MidtermFears.exe
+C:\Users\osman\RiderProjects\OOP_MidtermFears\OOP_MidtermFears\bin\Debug\OOP_MidtermFears.pdb
+C:\Users\osman\RiderProjects\OOP_MidtermFears\OOP_MidtermFears\obj\Debug\OOP_MidtermFears.csprojAssemblyReference.cache
+C:\Users\osman\RiderProjects\OOP_MidtermFears\OOP_MidtermFears\obj\Debug\OOP_MidtermFears.csproj.CoreCompileInputs.cache
+C:\Users\osman\RiderProjects\OOP_MidtermFears\OOP_MidtermFears\obj\Debug\OOP_MidtermFears.exe
+C:\Users\osman\RiderProjects\OOP_MidtermFears\OOP_MidtermFears\obj\Debug\OOP_MidtermFears.pdb
